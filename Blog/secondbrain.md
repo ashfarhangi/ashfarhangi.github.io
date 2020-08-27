@@ -9,4 +9,4 @@
 together in your head and you can start focusing on what is important: The content, the argument and the ideas
 
 ## Sources:
-[How to take notes](/secondbrain)
+[How to take notes](https://ashfarhangi.github.io/Blog/smarternotes)
