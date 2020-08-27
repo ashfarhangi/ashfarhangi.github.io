@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blog/smarternotes.md",
-            "mode": "source"
+            "file": "index.md",
+            "mode": "preview"
           }
         }
       }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/smarternotes.md"
+                "file": "index.md"
               }
             }
           }
@@ -74,8 +74,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Blog/smarternotes.md",
+    "index.md",
+    "pdf/sample_presentation.pdf",
     "Blog/secondbrain.md",
-    "index.md"
+    "Blog/smarternotes.md"
   ]
 }
