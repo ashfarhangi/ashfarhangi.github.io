@@ -17,6 +17,7 @@ Published: 2019 IEEE Real-Time Systems Symposium (RTSS), 568-571
 
 ## Blog
 [How to develop your second brain](/Blog/secondbrain)
+
 [How to take smarter notes](/Blog/smarternotes)
 
 ---

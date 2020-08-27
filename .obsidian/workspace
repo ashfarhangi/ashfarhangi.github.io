@@ -1,0 +1,81 @@
+{
+  "main": {
+    "id": "93f19af39404c5fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33f94280385fd31",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blog/smarternotes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea8db722b4d46123",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec8f096204e6704e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eedba5ceaff1d924",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad3c561c10c890a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d31c1b34330946a",
+    "type": "split",
+    "children": [
+      {
+        "id": "df0ecc25210572aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a03c404c51ba793",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blog/smarternotes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Blog/smarternotes.md",
+    "Blog/secondbrain.md",
+    "index.md"
+  ]
+}

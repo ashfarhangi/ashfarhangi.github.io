@@ -1,5 +1,6 @@
-# Status:
+## Status:
 - Incomplete
+
 # How to take notes
 - Good, productive writing is based on good note-taking
 - Notes should live in the most important context #secondbrain #natelasion
